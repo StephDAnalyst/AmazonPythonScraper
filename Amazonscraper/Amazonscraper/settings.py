@@ -13,7 +13,7 @@ SPIDER_MODULES = ["Amazonscraper.spiders"]
 NEWSPIDER_MODULE = "Amazonscraper.spiders"
 ## settings.py
 
-SCRAPEOPS_API_KEY = 'b13240c6-d4c5-4b86-a38c-1839858fc675'
+SCRAPEOPS_API_KEY = 'Your_Api_Key'
 SCRAPEOPS_PROXY_ENABLED = True
 
 
